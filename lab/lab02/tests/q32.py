@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {
   'name': 'q32',
   'points': 1,
