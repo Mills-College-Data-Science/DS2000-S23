@@ -1,4 +1,4 @@
-OK_FORMAT = TRUE
+OK_FORMAT = True
 test = {
   'name': 'q21',
   'points': 1,
